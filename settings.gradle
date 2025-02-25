@@ -1,2 +1,5 @@
 rootProject.name = 'canvasmemo'
-include ':', 'common_module'
+include 'common_module'
+include 'api'
+include 'api'
+
